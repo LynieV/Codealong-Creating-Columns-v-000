@@ -75,8 +75,9 @@ figcaption {
 
 
 img, video, audio {
-  max
+  max-width: 100%;
 }
+
 /*/////// LAYOUT ///////*/
 
 .wrapper {
