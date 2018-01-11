@@ -144,5 +144,6 @@ section {
 #social a {
   display: blovk;
   width: 40px;
-  height: ;
+  height: 40px;
+  background: yellow;
 }
