@@ -74,7 +74,9 @@ figcaption {
 /*/////// MEDIA ///////*/
 
 
-
+img, video, audio {
+  max
+}
 /*/////// LAYOUT ///////*/
 
 .wrapper {
